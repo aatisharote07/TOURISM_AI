@@ -1,6 +1,6 @@
 # Global Tourism AI Platform
 
-A comprehensive analytics platform that combines Power BI dashboards with AI-powered insights, travel planning, gamification, and advanced admin features — focused on visualizing **global holidays and travel data** to help travel agencies, policymakers, tourism boards, and travelers make data-driven decisions.
+A comprehensive analytics platform that combines Power BI dashboards with AI-powered insights, travel planning, gamification, and advanced admin features focused on visualizing **global holidays and travel data** to help travel agencies, policymakers, tourism boards, and travelers make data-driven decisions.
 
 ---
 

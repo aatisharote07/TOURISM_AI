@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+venv*/
+Global Tourism 1/Global Tourism/.venv312/
+
+# OS / editor junk
+.DS_Store
+*.log

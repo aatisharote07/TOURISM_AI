@@ -3,6 +3,8 @@
 A comprehensive analytics platform that combines Power BI dashboards with AI-powered insights, travel planning, gamification, and advanced admin features focused on visualizing **global holidays and travel data** to help travel agencies, policymakers, tourism boards, and travelers make data-driven decisions.
 
 ---
+[![Live Web](https://img.shields.io/badge/Live_Web-Click_Here-blue?style=for-the-badge)](http://3.27.240.152:8000)
+
 
 ## 1. Project Statement & Outcomes
 

@@ -23,10 +23,10 @@ This project aims to develop an interactive Power BI dashboard that visualizes t
 
 ## 2. Modules to be Implemented
 
-1. **Data Collection and Preprocessing** — Acquire and clean holidays and tourism datasets.
-2. **Data Structuring and Power BI Dashboard Development** — Transform and model data for visualizations.
-3. **Exploring and Streamlit Integration** — Host and embed the Power BI dashboard inside a web app.
-4. **Testing, Review, and Documentation** — QA, user testing, and final documentation.
+1. **Data Collection and Preprocessing** - Acquire and clean holidays and tourism datasets.
+2. **Data Structuring and Power BI Dashboard Development** - Transform and model data for visualizations.
+3. **Exploring and Streamlit Integration** - Host and embed the Power BI dashboard inside a web app.
+4. **Testing, Review, and Documentation** - QA, user testing, and final documentation.
 
 ---
 
